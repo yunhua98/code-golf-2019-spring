@@ -109,7 +109,7 @@ Example Input:
 ```
 Example Output:
 ```
-25
+16
 ```
 
 ### 5) Inverse Pyramids
