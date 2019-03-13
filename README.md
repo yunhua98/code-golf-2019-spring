@@ -91,7 +91,7 @@ Example Input:
   
 Example Output:
 ```
-abchd
+abch
 cde
 eefg
 ```
@@ -107,7 +107,10 @@ Example Input:
 0 1 0 1 1 0 0 1 0 1 0 1 0
 0 0 1 1 0 0 1 0 1 0 1 0 1
 ```
-
+Example Output:
+```
+25
+```
 
 ### 5) Inverse Pyramids
 #### Given an arbitrary word, create an "inverse pyramid" for it. You can assume that any ASCII character may be inlcuded in the word.  Case and formattingn must be maintained in the final results, and you should print a single blank line in between the inverse pyramid for each input.
